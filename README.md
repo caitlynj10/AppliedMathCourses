@@ -1,0 +1,1 @@
+A collection of applied mathematics courses with their respective course works; includes homework, classwork, and final projects. These assignments are written in either Python or R and focus on predicting various results based on data.
